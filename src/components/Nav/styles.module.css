@@ -1,0 +1,15 @@
+.nav_container {
+  display: flex;
+  gap: 64px;
+}
+
+.link {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.link:hover {
+  color: #ffffff80;
+}

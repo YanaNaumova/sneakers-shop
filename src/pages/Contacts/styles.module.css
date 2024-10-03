@@ -1,0 +1,104 @@
+.contacts_container_info {
+  display: flex;
+  gap: 79px;
+}
+
+.info_container {
+  display: flex;
+  gap: 39px;
+}
+
+.form_container {
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  max-width: 767px;
+  width: 100%;
+}
+
+.btn {
+  background-color: #090d1a;
+  border-radius: 10px;
+  color: white;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 21px 25px;
+  max-width: 131px;
+}
+
+.input_text,
+.input_sms_text {
+  border-radius: 10px;
+  background-color: #fafafa;
+  border: none;
+  font-size: 18px;
+  color: #000000b3;
+}
+.input_text {
+  padding: 25px 0px 26px 21px;
+  height: 66px;
+  max-width: 364px;
+  width: 100%;
+}
+.input_sms_text {
+  padding: 28px 0 73px 21px;
+  height: 116px;
+}
+
+.btn_container {
+  display: flex;
+  justify-content: end;
+}
+
+.header {
+  font-weight: 800;
+  font-size: 36px;
+  color: #000000;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #eaeaea;
+  width: 100%;
+}
+
+.contacts_daten {
+  display: flex;
+  flex-direction: column;
+  padding-top: 116px;
+  gap: 13px;
+  padding-bottom: 67px;
+}
+
+.contacts_header {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: start;
+  justify-content: flex-start;
+}
+
+.contacts_container {
+  padding: 2.6% 13.02% 2.6% 13.02%;
+  flex: 1;
+  width: 100%;
+}
+
+.img {
+  max-width: 76px;
+  max-height: 76px;
+}
+
+.image_container {
+  display: flex;
+  gap: 50px;
+}
+
+.about_uns {
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  background-color: #fafafa;
+  padding: 18px 65px 72px 65px;
+  height: 221px;
+  border-radius: 10px;
+  max-width: 458px;
+  width: 100%;
+}
