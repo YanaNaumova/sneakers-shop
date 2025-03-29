@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sneakers-shop/static/css/main.91756bdf.css",
+    "main.js": "/sneakers-shop/static/js/main.2eb762c3.js",
+    "static/media/banner.png": "/sneakers-shop/static/media/banner.a34e884aa5a7ce1446fc.png",
+    "static/media/twitter.svg": "/sneakers-shop/static/media/twitter.78455ffae50b84760ad5ea7de8faf0c3.svg",
+    "static/media/snapchat.svg": "/sneakers-shop/static/media/snapchat.4862137b1f78f5ec83c2cc2b07518805.svg",
+    "static/media/basket.svg": "/sneakers-shop/static/media/basket.e28a5256c18101616d147276bfb06c35.svg",
+    "static/media/instagram_outlined.svg": "/sneakers-shop/static/media/instagram_outlined.dbfcc4dcea9701fdd5e42bd8a9abdbb5.svg",
+    "static/media/twitter_outlined.svg": "/sneakers-shop/static/media/twitter_outlined.15d63830c05fac816dc89f187bf72b32.svg",
+    "static/media/facebook.svg": "/sneakers-shop/static/media/facebook.4740eb8451b99189713a0f68721b7ffe.svg",
+    "index.html": "/sneakers-shop/index.html",
+    "static/media/facebook_outlined.svg": "/sneakers-shop/static/media/facebook_outlined.38b9bcb33efb9dbbc22f3d5e33ab72d5.svg",
+    "static/media/btnAddtoCart.svg": "/sneakers-shop/static/media/btnAddtoCart.fe46f7c8de9f2cbf75ba413ce684f383.svg",
+    "main.91756bdf.css.map": "/sneakers-shop/static/css/main.91756bdf.css.map",
+    "main.2eb762c3.js.map": "/sneakers-shop/static/js/main.2eb762c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91756bdf.css",
+    "static/js/main.2eb762c3.js"
+  ]
+}
